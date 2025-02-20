@@ -146,7 +146,7 @@ Após comparar diversas distribuições Linux, a escolha recaiu sobre o **Ubuntu
 
 #### 3. Configuração de Rede
 
-![Imagem](https://github.com/Italo-makerspace/Montagem-de-Ambiente-Virtual/blob/main/5.png?raw=true)
+![Imagem](https://github.com/Italo-makerspace/Montagem-de-Ambiente-Virtual/blob/main/4.png?raw=true)
 
 1. Selecione a máquina virtual criada e clique em **Configurações**.
 2. Acesse a aba **Rede** e configure como **NAT** 
