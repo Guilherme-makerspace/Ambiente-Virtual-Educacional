@@ -130,7 +130,7 @@ Após comparar diversas distribuições Linux, a escolha recaiu sobre o **Ubuntu
    - **Tipo:** Linux
    - **Versão:** Ubuntu 22.04.5 LTS (Jammy Jellyfish)
    
-![Imagem](https://github.com/Italo-makerspace/Montagem-de-Ambiente-Virtual/blob/main/1.png?raw=true)
+![Imagem](https://github.com/Guilherme-makerspace/Ambiente-Virtual-Educacional/blob/main/1.png?raw=true)
 
 2. **Configuração de Memória:**
    - Alocar **4096 MB** de memória RAM para a máquina virtual.
